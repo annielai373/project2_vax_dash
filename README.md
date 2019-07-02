@@ -18,7 +18,7 @@ To create our dynamic dashboard, our index.html and style.css files served as ou
 
 Results
 
-The first visualization is an interactive Leaflet map plot of the U.S. It contains a tooltip displaying the total 2018 vaccine count according to selected state upon hover. The second plot is a horizontal bar chart that displays the recommended ages for certain vaccines. The third visualization is a parallel coordinates plot that displays 3 multivariate factors: vaccine category, sex, and U.S. region. Next is a donut chart that reports on sex (male, female, or unknown) of those vaccinated in both the state of Georgia and in the U.S. The final visualization is an upright bar chart comparing the total vaccination count based on vaccination category in 2018 compared to 2017.
+The first visualization is an interactive Leaflet map plot of the U.S. It contains a tooltip displaying the total 2018 vaccine count according to selected state upon hover. The second plot is a parallel coordinates plot that displays 3 multivariate factors: vaccine category, sex, and U.S. region. The third visualization is a donut chart that reports on sex (male, female, or unknown) of those vaccinated in both the state of Georgia and in the U.S. The final visualization is an upright bar chart comparing the total vaccination count and (total percentage) based on vaccination category in 2018 compared to 2017.
 
 Limitations
 
