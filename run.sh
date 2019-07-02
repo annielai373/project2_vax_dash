@@ -1,1 +1,1 @@
-FLASK_APP=bb_biodiversity/app.py flask run
+FLASK_APP=assets/app.py flask run
